@@ -41,8 +41,8 @@ for(n=0;n<2173;n++){
 	
 	
 
-	printf("%g %g\n",X,Y);
-	fprintf(finout, "%g %g\n",X,Y);
+	printf("%g %g\n",Y,X);
+	fprintf(finout, "%g %g\n",Y,X);
 				}
 	
 	
